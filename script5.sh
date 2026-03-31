@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Unit 5: Open Source Manifesto Generator
-# Author: Sankalp Tripathi (24BCY10005)
+# Author: Swayam Chavan (24BAS10024)
 # Note: I could set an alias for this like: alias gen='./manifesto_gen.sh'
 
 echo "--- Welcome to the Manifesto Builder ---"
